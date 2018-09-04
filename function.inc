@@ -9,3 +9,7 @@ function showInfo() {
 function newFunc() {
     echo "new function";
 }
+
+function newFunc2() {
+    echo "new function 2";
+}
